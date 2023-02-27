@@ -94,44 +94,72 @@ Datensatz 5,6,6.1,6.2,7, 8: Januar– Februar 2023
 3.1 Datengröße
 3.1.1 Was ist die tatsächliche oder erwartete Größe der Daten(typen)?
 Datensatz 1: DOCX 323 KB, TXT 166 KB, XML 3826 KB
+
 Datensatz 2: DOCX 557 KB, XLSX 148 KB
+
 Datensatz 3: CSV 354 KB
+
 Datensatz 4: CSV 232 KB
+
 Datensatz 5: CSV 1280; XLSX 858 KB HTML 2655 KB
+
 Datensatz 6: CSV 1260 KB, XLSX 1718 KB
+
 Datensatz 6.1: CSV 896 KB
+
 Datensatz 6.2: CSV 1018 KB
+
 Datensatz 7: CSV  416 KB, KML 685 KB
+
 Datensatz 8: CSV 536 KB
 
 3.2 Formate
 3.2.1 In welchen Formaten  liegen die Daten vor?
 Datensatz 1: DOCX, TXT, XML
+
 Datensatz 2: DOCX, XLSX
+
 Datensatz 3: CSV
+
 Datensatz 4: CSV
+
 Datensatz 5: CSV, XLSX, HTML
+
 Datensatz 6: CSV, XLSX
+
 Datensatz 6.1: CSV
+
 Datensatz 6.2: CSV
+
 Datensatz 7: CSV, KML
+
 Datensatz 8: CSV
 
 3.3 Werkzeuge
 3.3.1 Welche Instrumente, Software, Technologien oder Verfahren werden zur Erzeugung, Erfassung, Bereinigung, Analyse und/oder Visualisierung der Daten genutzt? Bitte (falls möglich) mit Versionsnummer und Referenz in Form einer Adresse jeweils angeben.
 Datensatz 1: Transkribus Expert Client, Version v1.19.3, https://readcoop.eu/de/transkribus/; Microsoft Excel, Version 2016
+
 Datensatz 2: Microsoft Word und Excel, Version 2016
+
 Datensatz 3: Jupyter Notebook 6.3.0 (anaconda3); SRU-Schnittstellenabruf: http://sru.k10plus.de/opac-de-627?version=1.1; Microsoft Excel, Version 2016
+
 Datensatz 4: Jupyter Notebook 6.3.0 (anaconda3); SRU-Schnittstellenabruf: http://sru.k10plus.de/opac-de-23?version=1.1; Microsoft Excel, Version 2016
+
 Datensatz 5: OpenRefine, Version 3.6.2., https://openrefine.org/; Microsoft Excel, Version 2016
+
 Datensatz 6, 6.1, 6.2: Microsoft Excel, Version 2016
+
 Datensatz 7: DARIAH-DE-Geobrowser, Version 4.0.19, https://geobrowser.de.dariah.eu; Microsoft Excel, Version 2016
+
 Datensatz 8: LibReTo, https://github.com/hbeyer/libreto-transform und https://bibliotheksrekonstruktion.hab.de/; Microsoft Excel, Version 2016
 
 3.3.2 Welche Software, Verfahren oder Technologien sind notwendig, um die Daten zu nutzen?
 Datensatz 1: Transkribus Expert Client; Tabellenkalkulationsprogramm, z.B. Microsoft Excel oder OpenOffice Calc
+
 Datensatz 2,3,4,5,6,6.1,6.2: Tabellenkalkulationsprogramm, z.B. Microsoft Excel oder OpenOffice Calc
+
 Datensatz 7: Geodatenverarbeitendes-Kartenprogramm, z.B. DARIAH-DE-Geobrowser oder Google Earth, Tabellenkalkulationsprogramm, z.B. Microsoft Excel oder OpenOffice Calc
+
 Datensatz 8: LibReTo, Tabellenkalkulationsprogramm, z.B. Microsoft Excel oder OpenOffice Calc
 
 3.4 Versionierung
@@ -146,6 +174,7 @@ Ja: verwendung_pcb_kurztitel_erstellungsdatum.format
 4.2 Datenspeicherung und -sicherheit
 4.2.1 Wer darf (zukünftig) auf die Daten zugreifen?
 Alle Interessierten. Die Daten werden unter Creative Commons — Namensnennung 2.0 (CC BY) lizenziert.
+
 4.2.2 Wie und wie oft werden Backups der Daten erstellt? 
 Bei jeder neuen Version der Datensätze wurde ein Backup gemacht und lokal sowie in der FHP-Cloud gesichert.
 
@@ -153,11 +182,14 @@ Bei jeder neuen Version der Datensätze wurde ein Backup gemacht und lokal sowie
 4.3 Interoperabilität
 4.3.1 Sind die Datenformate im Sinne der FAIR-Prinzipien interoperabel, d.h. geeignet für den Datenaustausch und die Nachnutzung zwischen bzw. von unterschiedlichen Forschenden, Institutionen, Organisationen und Ländern?
 Ja.
+
 4.4 Weitergabe und Veröffentlichung
 4.4.1 Ist es geplant, die Daten nach Abgabe der Abschlussarbeit zu veröffentlichen oder zu teilen?
 Ja.
+
 4.4.2 Wenn nicht, skizzieren Sie kurz rechtliche und/oder vertragliche Gründe und freiwillige Einschränkungen.
 Trifft nicht zu.
+
 4.4.3 Wenn ja, unter welchen Nutzungsbedingungen oder welcher Lizenz sollen die Daten veröffentlicht bzw. geteilt werden?
 Creative Commons — Namensnennung 2.0 (CC BY). Diese Lizenz erlaubt Dritten, ein Werk zu verbreiten, zu remixen, zu verbessern und darauf aufzubauen, auch kommerziell, solange der Urheber des Originals genannt wird. 
 
@@ -173,6 +205,7 @@ Offene Standardisierte Schnittstellen (SRU, OAI-PMH) ausschließliche Nutzung vo
 5.1 Metadaten
 5.1.1 Welche Informationen sind für Außenstehende notwendig, um die Daten zu verstehen (d. h. ihre Erhebung bzw. Entstehung, Analyse sowie die auf ihrer Basis gewonnenen Forschungsergebnisse nachvollziehen) und nachnutzen zu können?
 Der Forschungsdatenmanagementplan, Kurzbeschreibung auf GitHub (readme-Dateien).
+
 5.1.2 Welche Standards, Ontologien, Klassifikationen etc. werden zur Beschreibung der Daten und Kontextinformation genutzt?
 Abgleich der Daten über Normdatenstandards: PPN, GND, TGN. Ontologie: LibReTo.
 
@@ -180,17 +213,23 @@ Abgleich der Daten über Normdatenstandards: PPN, GND, TGN. Ontologie: LibReTo.
 6.1 Personenbezogene Daten
 6.1.1 Enthalten die Daten personenbezogene Informationen?
 Ja, ausschließlich von historischen Personen.
+
 6.2 Sensible Daten
 6.2.1 Enthalten die Daten "Angaben über die rassische und ethnische Herkunft, politische Meinungen, religiöse oder philosophische Überzeugungen, Gewerkschaftszugehörigkeit, Gesundheit oder Sexualleben" (BDSG §3, Abs.9 )?
 Trifft nicht zu.
+
 6.2.2 Werden die Daten anonymisiert oder pseudonymisiert?
 Trifft nicht zu.
+
 6.2.3 Haben Sie eine "informierte Einwilligung" der Betroffenen eingeholt? Fügen Sie bitte ein Template -der Einverständniserklärung als Anlage bei.
 Trifft nicht zu.
+
 6.2.4 Wenn keine "informierte Einwilligung" eingeholt wird, begründen Sie dies bitte.
 Trifft nicht zu.
+
 6.2.5 Wo und wie sind die "informierten Einwilligungen" abgelegt?
 Trifft nicht zu.
+
 6.2.6 Bis wann werden die (unanonymisierten bzw. unpseudonymisierten) Originaldaten spätestens sicher vernichtet?
 Trifft nicht zu.
 
@@ -201,10 +240,15 @@ Trifft nicht zu.
 7. Speicherung und Langzeitarchivierung
 7.1 Wo werden die Daten (einschließlich Metadaten, Dokumentation und ggf. relevantem Code bzw. relevanter Software) während Phase der Erarbeitung der Abschlussarbeit gespeichert?
 Lokale Speicherung auf Festplatte, Speicherung in der FHP-Cloud, Speicherung auf externen USB-Stick.
+
 7.2 Wo werden die Daten (einschließlich Metadaten, Dokumentation und ggf. relevantem Code bzw. relevanter Software) nach dem Ende der Abschlussarbeit gespeichert bzw. archiviert ?
 Speicherung und Publikation auf: 
+
 - FHP-Cloud https://fhpcloud.fh-potsdam.de/s/BoDWp7nty6x4tHS 
+- 
 - GitHub https://github.com/HenrikeFricke/library_philippine_charlotte
+- 
 - Zenodo https://doi.org/10.5281/zenodo.7657319
+
 7.3 Handelt es sich dabei um ein zertifiziertes Repositorium oder Datenzentrum (z.B. durch das CoreTrustSeal , nestor-Siegel  oder ISO 16363 )? (Wurden mehrere Langzeitarchivierungsoptionen ausgewählt, kann die Frage bejaht werden, wenn dies auf mindestens eine der Optionen zutrifft).
 Trifft nicht zu.
