@@ -11,13 +11,13 @@ Datenmanagementplan (DMP)
 
 
 Gliederung :
-1. Allgemein	1
-2. Inhaltliche Einordnung	1
-3. Technische Einordnung	2
-4. Datennutzung	4
-5. Metadaten und Referenzierung	5
-6. Rechtliche und ethische Fragen	6
-7. Speicherung und Langzeitarchivierung	6
+1. Allgemein	
+2. Inhaltliche Einordnung	
+3. Technische Einordnung	
+4. Datennutzung	
+5. Metadaten und Referenzierung	
+6. Rechtliche und ethische Fragen	
+7. Speicherung und Langzeitarchivierung	
 
 
 
