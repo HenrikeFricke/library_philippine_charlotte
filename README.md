@@ -6,6 +6,7 @@ Kontakt zur Datenerstellerin Henrike Fricke-Steyer: henrike.fricke@gmail.com
 
 ------------------------------------------------------------------------------------------------------------------
 Datenmanagementplan (DMP)
+
 27.03.2022
 
 
@@ -61,10 +62,14 @@ Datensatz 8 = libreto_pcb_praunscherkatalog_2023-02-25: Aus Datensatz erstelltes
 2.2 Datenursprung
 2.2.1 Werden die Daten selbst erzeugt oder nachgenutzt?
 Datensatz 1: Die Volltextdaten des Praun’schen Kataloges wurden mit Hilfe von Transkribus erzeugt
+
 Datensatz 2: Die Volltextdaten des Kataloges Ende des 18. Jh. wurden nachgenutzt
+
 Datensatz 3,4: Die bibliographischen Daten wurden aus dem GVK abgerufen
+
 Datensatz 5,6, 6.1,6.2,7,8: Aus Datensatz 1-4 generiertes Datenset
-2.2.2 Wenn die Daten nachgenutzt werden, wer hat die Daten erzeugt? Bitte mit Angabe des Identifiers, falls vorhanden, z.B. DOI .
+
+2.2.2 Wenn die Daten nachgenutzt werden, wer hat die Daten erzeugt? Bitte mit Angabe des Identifiers, falls vorhanden, z.B. DOI.
 Datensatz 2: Die Daten des Kataloges Ende des 18. Jh. wurden im Rahmen folgender Bachelorarbeit erhoben: Bieberstein, Vanessa: Veränderung in der Aufstellung der privaten Bibliothek und Kaufverhalten der Herzogin Philippine Charlotte von Braunschweig-Lüneburg im Spiegel ihrer handschriftlichen Kataloge. Leipzig 2021. Schriftliche Einwilligung vorhanden, Daten lizenziert: CC BY.
 
 2.3. Reproduzierbarkeit
@@ -80,6 +85,7 @@ Der Datensatz ist insbesondere für Forscher*innen der Geistes- und Kulturwissen
 3.1 Datenerhebung
 3.1.1 Wann erfolgt(e) die Erhebung bzw. Erstellung der Daten?
 Datensatz 2: 2021
+
 Datensatz 1,3,4,5,6,6.1,6.2,7: Oktober 2022 – Februar 2023
 
 3.1.2 Wann erfolgt(e) die Datenbereinigung / -aufbereitung bzw. Datenanalyse?
