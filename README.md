@@ -1,10 +1,6 @@
 # library_philippine_charlotte
 
-Datensets zur Erschließung der Privatbibliothek von Fürstin Pilippine Charlotte von Braunschweig Lüneburg.
-Die Erschließung beruht auf zwei Bücherverzeichnissen aus dem 18. Jahrhundert.
-Die Daten umfasssen die Volltextdaten, die um Normdaten angereicherten Daten sowie Visualisierungen der Inhalte.
-Die Daten sind Teil einer Masterarbeit des Studiengangs "Digitales Datenmanagement" der FH Potsdam,
-Alle Daten stehen unter CC BY 4.0 Lizenz.
+Datenset zur Erschließung der Privatbibliothek von Fürstin Philippine Charlotte von Braunschweig Lüneburg. Die Erschließung beruht auf zwei Bücherverzeichnissen aus dem 18. Jahrhundert. Die Da-ten umfassen die Volltextdaten, die um Normdaten angereicherten Daten sowie die Daten der Visua-lisierungen der Inhalte. Die Daten sind Teil einer Masterarbeit des Studiengangs "Digitales Datenma-nagement" der FH Potsdam, Alle Daten stehen unter CC BY Lizenz.
 
 Kontakt zur Datenerstellerin Henrike Fricke-Steyer: henrike.fricke@gmail.com
 
@@ -26,7 +22,7 @@ Gliederung :
 
  
 1. Allgemein
-Datenset zur Erschließung der Privatbibliothek von Fürstin Philippine Charlotte von Braunschweig Lüneburg. Die Erschließung beruht auf zwei Bücherverzeichnissen aus dem 18. Jahrhundert. Die Da-ten umfassen die Volltextdaten, die um Normdaten angereicherten Daten sowie die Daten der Visua-lisierungen der Inhalte. Die Daten sind Teil einer Masterarbeit des Studiengangs "Digitales Datenma-nagement" der FH Potsdam, Alle Daten stehen unter CC BY Lizenz.
+
 Kontakt zur Datenerstellerin Henrike Fricke-Steyer: henrike.fricke@gmail.com
 1.1 Thema
 1.1.1. Wie lautet die primäre Forschungsfrage der Abschlussarbeit?
@@ -44,14 +40,22 @@ Bibliothekskatalog, Datenanalyse, Forschungsdatenmanagement, Fürstin, Bibliothe
 2.1 Datensatz
 2.1.1 Um welche Arten von Daten handelt es sich? Bitte in wenigen Zeilen kurz beschreiben.
 Datensatz 1 = transkribus_pcb_praunscherkatalog_2023-02-20: Volltext- und Strukturdaten des Digitalisates des Praun’schen Katalogs
+
 Datensatz 2 = primaerdaten_pcb_katalogende18jh_cc_by_vanessa_bieberstein_2023-01-27: Volltext- und Strukturdaten des Digitalisates des Kataloges Ende 18. Jah.
+
 Datensatz 3 = sruantwort_pcb_manifestationsebene_2023-02-02: Bibliografische Daten Manifestationsebene, abgerufen an der SRU-K10Plus-Schnittstelle 
+
 Datensatz 4 = sruantwort_pcb_exemplarebene_2023-02-02: Bibliografische Daten Exemplarebene, abgerufen an der SRU- K10Plus-Schnittstelle
+
 Datensatz 5 = openrefine_pcb_sammlung_2023-02-20: Aus Datensatz 1-4 generiertes Datenset, bereinigt und zusätzlich angereichert via Openrefine, Verknüpfungen zu GND, TGN und Wikidata
 Datensatz 6 = finalisiertesdatenset_pcb_sammlung_2023-02-20: Aus Datensatz 5 generiertes Datenset, bereinigt und zusätzlich mit Daten angereichert via Openrefine, Datensätze der gesamten Sammlung
+
 Datensatz 6.1 = finalisiertesdatenset_pcb_sammlung_2023-02-20: Aus Datensatz 5 generiertes Datenset, bereinigt und zusätzlich mit Daten angereichert via Openrefine, eingeschränkt auf die Datensätze des Praun’schen Kataloges
+
 Datensatz 6.2 = finalisiertesdatenset_pcb_praunscherkatalog_2023-02-20: Aus Datensatz 5 generiertes Datenset, eingeschränkt auf die Datensätze des Kataloges Ende des 18. Jh.
+
 Datensatz 7 = geobrowser_pcb_sammlung_EAEA0-CF94-3610-CE92-0_2023-02-19: Orts- und Zeitdaten im Geobrowser
+
 Datensatz 8 = libreto_pcb_praunscherkatalog_2023-02-25: Aus Datensatz erstelltes Importdatenset zur Weiterverarbeitung in LibReTo
 
 2.2 Datenursprung
